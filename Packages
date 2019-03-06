@@ -1,0 +1,13 @@
+Package: com.mgfjxxiexiaolong.ezcc
+Name: PullUpFunc
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: 上滑多功能手势.
+Filename: ezcc.deb
+Size: 24988
+Homepage: http://www.saurik.com/id/7
+Depiction: http://www.saurik.com/id/7
+Maintainer: mgfjxxiexiaolong@gmail.com
+Author: mgfjx
+Sponsor: http://www.microsoft.com/
+Section: Tweaks
