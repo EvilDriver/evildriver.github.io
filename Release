@@ -1,8 +1,8 @@
 Origin: EvilDriver's Private Repo for Cydia
-Label: Cydia Example
+Label: Test Repo
 Suite: stable
-Version: 0.9
-Codename: tangelo
+Version: 1.0
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: An Example Repository from HowTo Instructions
+Description: This is a test Cydia repo.
